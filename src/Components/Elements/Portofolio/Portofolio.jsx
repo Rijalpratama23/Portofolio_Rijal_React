@@ -2,7 +2,7 @@ import BoxContainer from './BoxContiner';
 
 export default function Portofolio() {
   return (
-    <div className="container mx-auto min-h-screen flex justify-center items-center px-4 py-2" id="portofolio">
+    <div className="container mx-auto min-h-screen flex justify-center items-center px-4 py-20 md:py-4 lg:py-2" id="portofolio">
       <div className="flex-col md:flex-row items-center my-25 md:m-28 lg:my-30 gap-15 ">
         <p className="text-xl text-gray-400 font-semibold text-center">~Latest Project~</p>
         <h1 className="text-3xl text-center m-2 text-blue-900 font-bold pb-4">My Protofolio</h1>

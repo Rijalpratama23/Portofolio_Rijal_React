@@ -3,7 +3,7 @@ import Button from '../Button';
 export default function HeroContent() {
   return (
     <div className="container mx-auto  min-h-screen  flex items-center" id="home">
-      <div className="flex justify-between my-50 md:my-20 lg:my-15">
+      <div className="flex justify-between my-40 md:my-20 lg:my-15">
         <div>
           <div className="box1 px-3 py-2 rounded-3xl">
             <h1 className="text-4xl lg:text-5xl font-semibold md:bg-slate-200 p-2 rounded-xl md:w-50 lg:w-65">

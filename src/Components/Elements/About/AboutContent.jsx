@@ -2,8 +2,8 @@ import Button from "../Button";
 
 export default function AboutContent() {
   return (
-    <div className="container mx-auto min-h-screen flex items-center px-4  py-10" id="about">
-      <div className="flex flex-col md:flex-row items-center gap-15">
+    <div className="container mx-auto min-h-screen flex items-center px-4 " id="about">
+      <div className="flex flex-col md:flex-row items-center pt-35 md:pt-30 lg:pt-25 gap-15">
         <div className="w-full max-w-xs">
           <img
             className="rounded-tl-[50px] rounded-br-[50px] shadow-lg w-full"
